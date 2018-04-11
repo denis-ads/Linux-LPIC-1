@@ -1,4 +1,5 @@
 Anotaçoes estudo LPI
+inicio: 10/04/2018
 
 
 Capitulo 103.1
@@ -89,7 +90,7 @@ Exercicios: Acertei todos - os 'ou'
 Capitulo 103.2
 
 	
-
+	
 
 
 
