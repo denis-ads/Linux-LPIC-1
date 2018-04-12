@@ -227,6 +227,48 @@ Exercicios:
 				# grep -v daemon /etc/passwd | wc –l
 
 
+Capitulo 103.2
+
+	Gerenciamento de arquivos e diretorios.
+	
+
+	Estrutura de diretorios do linux.
+
+		caminhos absolutos
+		caminhos relativos
+	
+	comandos:
+
+	cd 
+
+	ls
+	ls -l Aula1*
+	ls -l Aula1? -> ? tem que ser um numero
+	ls -l Aula1?0
+	ls -l Aula[1,2,3]
+	ls -l Aula[!1,2,3] -> ! negando os itens
+	ls -l Aula{10,20,30} -> sequencia de caracteres.
+	ls -l A{ula,UAL}1
+
+
+	file -> analisa o tipo do arquivo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
